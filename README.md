@@ -1,4 +1,3 @@
-[script_selenium_lab_activity.txt..py](https://github.com/user-attachments/files/35094920/script_selenium_lab_activity.txt.py)
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select, WebDriverWait
